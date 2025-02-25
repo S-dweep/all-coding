@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "funcB",
+      "request": "launch",
+      "mainClass": "funcB",
+      "projectName": "mycoding_14322a63"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
