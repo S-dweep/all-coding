@@ -2,21 +2,14 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "java",
-      "name": "funcB",
-      "request": "launch",
-      "mainClass": "funcB",
-      "projectName": "mycoding_14322a63"
-    },
-    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Sayandeep Mondal/OneDrive/Desktop/mycoding/striver a-z/pattern",
-      "program": "c:/Users/Sayandeep Mondal/OneDrive/Desktop/mycoding/striver a-z/pattern/build/Debug/outDebug",
+      "cwd": "c:/Users/Sayandeep Mondal/OneDrive/Desktop/coding/striversdecourse",
+      "program": "c:/Users/Sayandeep Mondal/OneDrive/Desktop/coding/striversdecourse/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
