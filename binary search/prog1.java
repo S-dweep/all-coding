@@ -1,3 +1,5 @@
+// binary search
+// binary search is a fast search algorithm with a time complexity of O(logn).
 import java.util.*;
 class prog1{
     public static int binarySearch(int arr[],int low,int high,int x){
